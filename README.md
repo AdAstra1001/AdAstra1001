@@ -13,7 +13,7 @@ Aspiring **Web3 security auditor**, learning from zero. Long-term goal: solo sma
 | Repository | What's inside |
 |---|---|
 | [learning-log](https://github.com/AdAstra1001/learning-log) | OverTheWire Bandit writeups |
-| python-security-scripts | Python scripts and automation for security tasks (in progress) |
+| [python-security-scripts](https://github.com/AdAstra1001/python-security-scripts) | Python scripts and automation for security tasks (in progress) |
 
 ## Principles
 
